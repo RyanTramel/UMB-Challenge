@@ -1,0 +1,22 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="UMB_Challenge/Son.h">
+    <Files>
+      <File FileName="UMB_Challenge/Co_payment_dental.h" Line="1" Column="1" />
+      <File FileName="UMB_Challenge/Daughter.h" Line="1" Column="1" />
+      <File FileName="UMB_Challenge/Dental.h" Line="1" Column="1" />
+      <File FileName="UMB_Challenge/ExistingUser.h" Line="1" Column="1" />
+      <File FileName="UMB_Challenge/Eyecare.h" Line="1" Column="1" />
+      <File FileName="UMB_Challenge/Father.h" Line="1" Column="1" />
+      <File FileName="UMB_Challenge/Mother.h" Line="1" Column="1" />
+      <File FileName="UMB_Challenge/NewFamilyMember.h" Line="1" Column="1" />
+      <File FileName="UMB_Challenge/NewUser.h" Line="1" Column="1" />
+      <File FileName="UMB_Challenge/Perscription.h" Line="1" Column="1" />
+      <File FileName="UMB_Challenge/Son.h" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
